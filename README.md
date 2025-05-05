@@ -43,6 +43,8 @@ Quantity
 Sales Value
 
 Region/Location
+![Screenshot 2025-05-05 143552](https://github.com/user-attachments/assets/cf95f3c9-672d-417b-b2c8-eeda9038b779)
+
 
 🎯 Purpose:
 To build a business intelligence dashboard that provides meaningful insights into an e-commerce company's sales operations, helping stakeholders make informed decisions.
